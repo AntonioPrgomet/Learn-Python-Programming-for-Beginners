@@ -4,4 +4,4 @@ Learn Python Programming for Beginners: https://youtu.be/M7bnYJyCx0Q
 
 2. The file "students_data.xlsx" is an Excel file containing the data used in the videos covering Pandas, starting at 1:23:31 in the course. 
 
-3. The file "presentation_slides.pp" contains three PowerPoint slides used at 0:00, 1:40 and 1:29:25 in the course.
+3. The file "presentation_slides.pptx" contains three PowerPoint slides used at 0:00, 1:40 and 1:29:25 in the course.
